@@ -1,4 +1,4 @@
-# ETF-Tracking - Backend
+# ETF-Tracking - Server
 
 App for tracking ETF's and assosiated holdings.
 
