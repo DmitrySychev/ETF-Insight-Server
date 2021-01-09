@@ -1,0 +1,456 @@
+SPXV: ProShares S&P 500 Ex-Health Care ETF
+Inception Date: 2015-09-22
+Fund Holdings as of: 2021-01-04
+Total Assets Under Management (in thousands):	1933
+Shares Outstanding: 25000
+Expense Ratio: 0.27%
+Tracks This Index: S&P 500 Ex-Health Care Index
+ETFdb.com Category: Large Cap Growth Equities
+Issuer: ProShares
+Structure: ETF
+ETF Home Page: https://etfdb.com/etf/SPXV
+
+
+Holding,Symbol,Weighting
+Apple Inc.,AAPL,7.65%
+Microsoft Corporation,MSFT,6.09%
+"Amazon.com, Inc.",AMZN,5.11%
+"Facebook, Inc. Class A",FB,2.39%
+Tesla Inc,TSLA,2.04%
+Alphabet Inc. Class A,GOOGL,1.96%
+Alphabet Inc. Class C,GOOG,1.88%
+Berkshire Hathaway Inc. Class B,BRK.B,1.64%
+JPMorgan Chase & Co.,JPM,1.42%
+Visa Inc. Class A,V,1.37%
+Procter & Gamble Company,PG,1.26%
+NVIDIA Corporation,NVDA,1.19%
+Walt Disney Company,DIS,1.19%
+Mastercard Incorporated Class A,MA,1.14%
+"Home Depot, Inc.",HD,1.05%
+PayPal Holdings Inc,PYPL,1.01%
+Verizon Communications Inc.,VZ,0.9%
+"Netflix, Inc.",NFLX,0.87%
+Adobe Inc.,ADBE,0.85%
+Comcast Corporation Class A,CMCSA,0.85%
+Bank of America Corp,BAC,0.84%
+AT&T Inc.,T,0.77%
+Walmart Inc.,WMT,0.76%
+Coca-Cola Company,KO,0.76%
+"salesforce.com, inc.",CRM,0.75%
+Intel Corporation,INTC,0.75%
+"PepsiCo, Inc.",PEP,0.74%
+"Cisco Systems, Inc.",CSCO,0.68%
+Exxon Mobil Corporation,XOM,0.65%
+"NIKE, Inc. Class B",NKE,0.65%
+Broadcom Inc.,AVGO,0.64%
+Costco Wholesale Corporation,COST,0.63%
+Qualcomm Inc,QCOM,0.62%
+Accenture Plc Class A,ACN,0.6%
+Chevron Corporation,CVX,0.6%
+McDonald\'s Corporation,MCD,0.58%
+Texas Instruments Incorporated,TXN,0.55%
+"NextEra Energy, Inc.",NEE,0.54%
+Honeywell International Inc.,HON,0.54%
+Linde plc,LIN,0.51%
+Union Pacific Corporation,UNP,0.5%
+Philip Morris International Inc.,PM,0.47%
+Citigroup Inc.,C,0.46%
+Starbucks Corporation,SBUX,0.45%
+Wells Fargo & Company,WFC,0.45%
+"Lowe\'s Companies, Inc.",LOW,0.44%
+Oracle Corporation,ORCL,0.44%
+"United Parcel Service, Inc. Class B",UPS,0.43%
+"Advanced Micro Devices, Inc.",AMD,0.41%
+International Business Machines Corporation,IBM,0.41%
+Boeing Company,BA,0.4%
+"ServiceNow, Inc.",NOW,0.38%
+Raytheon Technologies Corporation,RTX,0.38%
+Intuit Inc.,INTU,0.37%
+Caterpillar Inc.,CAT,0.37%
+"BlackRock, Inc.",BLK,0.37%
+Morgan Stanley,MS,0.36%
+American Tower Corporation,AMT,0.36%
+3M Company,MMM,0.36%
+General Electric Company,GE,0.34%
+"Goldman Sachs Group, Inc.",GS,0.34%
+Booking Holdings Inc.,BKNG,0.34%
+"Charter Communications, Inc. Class A",CHTR,0.33%
+Target Corporation,TGT,0.33%
+"Fidelity National Information Services, Inc.",FIS,0.33%
+Lockheed Martin Corporation,LMT,0.32%
+"Micron Technology, Inc.",MU,0.31%
+"Mondelez International, Inc. Class A",MDLZ,0.31%
+Deere & Company,DE,0.3%
+"Applied Materials, Inc.",AMAT,0.3%
+Charles Schwab Corporation,SCHW,0.29%
+American Express Company,AXP,0.29%
+"S&P Global, Inc.",SPGI,0.29%
+TJX Companies Inc,TJX,0.29%
+"T-Mobile US, Inc.",TMUS,0.29%
+Altria Group Inc,MO,0.28%
+U.S. Dollar,Other,0.27%
+Colgate-Palmolive Company,CL,0.27%
+"Automatic Data Processing, Inc.",ADP,0.27%
+"Prologis, Inc.",PLD,0.26%
+"Activision Blizzard, Inc.",ATVI,0.26%
+Duke Energy Corporation,DUK,0.25%
+Crown Castle International Corp,CCI,0.25%
+Chubb Limited,CB,0.25%
+"Autodesk, Inc.",ADSK,0.25%
+CSX Corporation,CSX,0.25%
+Lam Research Corporation,LRCX,0.25%
+CME Group Inc. Class A,CME,0.24%
+"Fiserv, Inc.",FISV,0.24%
+Truist Financial Corporation,TFC,0.23%
+"Intercontinental Exchange, Inc.",ICE,0.23%
+Global Payments Inc.,GPN,0.23%
+Dominion Energy Inc,D,0.23%
+"PNC Financial Services Group, Inc.",PNC,0.23%
+U.S. Bancorp,USB,0.23%
+Southern Company,SO,0.23%
+Sherwin-Williams Company 5.5% 15-OCT-2027,Other,0.22%
+"Air Products and Chemicals, Inc.",APD,0.22%
+Norfolk Southern Corporation,NSC,0.22%
+FedEx Corporation,FDX,0.22%
+Illinois Tool Works Inc.,ITW,0.22%
+Progressive Corporation,PGR,0.21%
+Estee Lauder Companies Inc. Class A,EL,0.21%
+"Equinix, Inc.",EQIX,0.21%
+"Marsh & McLennan Companies, Inc.",MMC,0.21%
+Dollar General Corporation,DG,0.2%
+"Analog Devices, Inc.",ADI,0.2%
+Ecolab Inc.,ECL,0.2%
+Newmont Corporation,NEM,0.19%
+General Motors Company,GM,0.19%
+"DuPont de Nemours, Inc.",DD,0.19%
+Moody\'s Corporation,MCO,0.18%
+Eaton Corp. Plc,ETN,0.18%
+Kimberly-Clark Corporation,KMB,0.17%
+Emerson Electric Co.,EMR,0.17%
+"Roper Technologies, Inc.",ROP,0.17%
+Capital One Financial Corporation,COF,0.17%
+Northrop Grumman Corporation,NOC,0.17%
+Aon Plc Class A,AON,0.17%
+"Waste Management, Inc.",WM,0.17%
+"Ross Stores, Inc.",ROST,0.16%
+Cognizant Technology Solutions Corporation Class A,CTSH,0.16%
+"Twitter, Inc.",TWTR,0.16%
+ConocoPhillips,COP,0.16%
+KLA Corporation 4.1% 15-MAR-2029,Other,0.15%
+"Dow, Inc.",DOW,0.15%
+"American Electric Power Company, Inc.",AEP,0.15%
+Exelon Corporation,EXC,0.15%
+TE Connectivity Ltd.,TEL,0.15%
+Electronic Arts Inc.,EA,0.15%
+"Freeport-McMoRan, Inc.",FCX,0.14%
+"Synopsys, Inc.",SNPS,0.14%
+"Chipotle Mexican Grill, Inc.",CMG,0.14%
+L3Harris Technologies Inc,LHX,0.14%
+MSCI Inc. Class A,MSCI,0.14%
+"Digital Realty Trust, Inc.",DLR,0.14%
+Sysco Corporation,SYY,0.14%
+Amphenol Corporation Class A,APH,0.14%
+"Cadence Design Systems, Inc.",CDNS,0.14%
+Public Storage,PSA,0.13%
+Trane Technologies plc,TT,0.13%
+Cummins Inc.,CMI,0.13%
+Bank of New York Mellon Corporation,BK,0.13%
+"Travelers Companies, Inc.",TRV,0.13%
+"Xilinx, Inc.",XLNX,0.13%
+IHS Markit Ltd.,INFO,0.13%
+Xcel Energy Inc.,XEL,0.13%
+General Dynamics Corporation,GD,0.13%
+Verisk Analytics Inc,VRSK,0.13%
+Aptiv PLC,APTV,0.13%
+Monster Beverage Corporation,MNST,0.13%
+"MetLife, Inc.",MET,0.13%
+"General Mills, Inc.",GIS,0.13%
+"Constellation Brands, Inc. Class A",STZ,0.13%
+Microchip Technology Incorporated,MCHP,0.13%
+Sempra Energy,SRE,0.13%
+"Johnson Controls, Inc. 6.95% 01-DEC-2045",Other,0.12%
+Allstate Corporation,ALL,0.12%
+"PPG Industries, Inc.",PPG,0.12%
+"AutoZone, Inc.",AZO,0.12%
+"Marriott International, Inc. Class A",MAR,0.12%
+HP Inc.,HPQ,0.12%
+"O\'Reilly Automotive, Inc.",ORLY,0.12%
+TransDigm Group Incorporated,TDG,0.12%
+"Yum! Brands, Inc.",YUM,0.12%
+Parker-Hannifin Corporation,PH,0.12%
+T. Rowe Price Group,TROW,0.12%
+"American International Group, Inc.",AIG,0.12%
+eBay Inc.,EBAY,0.12%
+Ford Motor Company,F,0.12%
+Schlumberger NV,SLB,0.11%
+"ANSYS, Inc.",ANSS,0.11%
+Cintas Corporation,CTAS,0.11%
+"Paychex, Inc.",PAYX,0.11%
+PACCAR Inc,PCAR,0.11%
+"Stanley Black & Decker, Inc.",SWK,0.11%
+Hilton Worldwide Holdings Inc,HLT,0.11%
+Eversource Energy,ES,0.11%
+"EOG Resources, Inc.",EOG,0.11%
+WEC Energy Group Inc,WEC,0.11%
+Carrier Global Corp.,CARR,0.11%
+Walgreens Boots Alliance Inc,WBA,0.11%
+"Prudential Financial, Inc.",PRU,0.11%
+Phillips 66,PSX,0.11%
+Ball Corporation,BLL,0.11%
+SBA Communications Corp. Class A,SBAC,0.11%
+"Welltower, Inc.",WELL,0.1%
+Southwest Airlines Co.,LUV,0.1%
+"American Water Works Company, Inc.",AWK,0.1%
+Fastenal Company,FAST,0.1%
+Marathon Petroleum Corporation,MPC,0.1%
+Corning Inc,GLW,0.1%
+Public Service Enterprise Group Inc,PEG,0.1%
+"Simon Property Group, Inc.",SPG,0.1%
+"Motorola Solutions, Inc.",MSI,0.1%
+Archer-Daniels-Midland Company,ADM,0.1%
+Corteva Inc,CTVA,0.1%
+V.F. Corporation,VFC,0.1%
+Discover Financial Services,DFS,0.1%
+"Rockwell Automation, Inc.",ROK,0.1%
+Otis Worldwide Corporation,OTIS,0.1%
+"AMETEK, Inc.",AME,0.1%
+Aflac Incorporated,AFL,0.1%
+Kinder Morgan Inc Class P,KMI,0.1%
+Clorox Company,CLX,0.09%
+"Delta Air Lines, Inc.",DAL,0.09%
+"Copart, Inc.",CPRT,0.09%
+Weyerhaeuser Company,WY,0.09%
+"Skyworks Solutions, Inc.",SWKS,0.09%
+"Maxim Integrated Products, Inc.",MXIM,0.09%
+Arthur J. Gallagher & Co.,AJG,0.09%
+Keysight Technologies Inc,KEYS,0.09%
+First Republic Bank,FRC,0.09%
+State Street Corporation,STT,0.09%
+Willis Towers Watson Public Limited Company,WLTW,0.09%
+Hershey Company,HSY,0.09%
+"Dollar Tree, Inc.",DLTR,0.09%
+"McCormick & Company, Incorporated",MKC,0.09%
+Fortive Corp.,FTV,0.09%
+Equifax Inc.,EFX,0.09%
+"Williams Companies, Inc.",WMB,0.09%
+Kroger Co.,KR,0.09%
+MarketAxess Holdings Inc.,MKTX,0.09%
+"Paycom Software, Inc.",PAYC,0.09%
+DTE Energy Company,DTE,0.09%
+"Best Buy Co., Inc.",BBY,0.09%
+"Consolidated Edison, Inc.",ED,0.09%
+Realty Income Corporation,O,0.08%
+"D.R. Horton, Inc.",DHI,0.08%
+"Fortinet, Inc.",FTNT,0.08%
+Zebra Technologies Corporation Class A,ZBRA,0.08%
+Lennar Corporation Class A,LEN,0.08%
+LyondellBasell Industries NV,LYB,0.08%
+Valero Energy Corporation,VLO,0.08%
+ViacomCBS Inc. Class B,VIAC,0.08%
+SVB Financial Group,SIVB,0.08%
+"AvalonBay Communities, Inc.",AVB,0.08%
+Vulcan Materials Company,VMC,0.08%
+"Take-Two Interactive Software, Inc.",TTWO,0.08%
+"VeriSign, Inc.",VRSN,0.08%
+"Alexandria Real Estate Equities, Inc.",ARE,0.08%
+Edison International,EIX,0.08%
+"Etsy, Inc.",ETSY,0.08%
+Kraft Heinz Company,KHC,0.08%
+PPL Corporation,PPL,0.08%
+"Church & Dwight Co., Inc.",CHD,0.08%
+"Ameriprise Financial, Inc.",AMP,0.08%
+"FLEETCOR Technologies, Inc.",FLT,0.08%
+"Tyson Foods, Inc. Class A",TSN,0.07%
+Kansas City Southern,KSU,0.07%
+"Expedia Group, Inc.",EXPE,0.07%
+Garmin Ltd.,GRMN,0.07%
+"Teradyne, Inc.",TER,0.07%
+Ameren Corporation,AEE,0.07%
+International Paper Company,IP,0.07%
+Amcor PLC,AMCR,0.07%
+Fifth Third Bancorp,FITB,0.07%
+"Qorvo, Inc.",QRVO,0.07%
+"Republic Services, Inc.",RSG,0.07%
+"Akamai Technologies, Inc.",AKAM,0.07%
+Equity Residential,EQR,0.07%
+Entergy Corporation,ETR,0.07%
+Xylem Inc.,XYL,0.07%
+"Tyler Technologies, Inc.",TYL,0.07%
+CDW Corp.,CDW,0.07%
+"CBRE Group, Inc. Class A",CBRE,0.07%
+"Old Dominion Freight Line, Inc.",ODFL,0.07%
+Pioneer Natural Resources Company,PXD,0.07%
+Las Vegas Sands Corp.,LVS,0.07%
+Synchrony Financial,SYF,0.07%
+Northern Trust Corporation,NTRS,0.07%
+M&T Bank Corporation FRN 26-JUL-2023,Other,0.06%
+Pool Corporation,POOL,0.06%
+Tractor Supply Company,TSCO,0.06%
+FirstEnergy Corp.,FE,0.06%
+Ingersoll Rand Inc.,IR,0.06%
+CMS Energy Corporation,CMS,0.06%
+"Conagra Brands, Inc.",CAG,0.06%
+Albemarle Corporation,ALB,0.06%
+"W.W. Grainger, Inc.",GWW,0.06%
+"Domino\'s Pizza, Inc.",DPZ,0.06%
+Regions Financial Corporation,RF,0.06%
+Ulta Beauty Inc,ULTA,0.06%
+Halliburton Company,HAL,0.06%
+Nucor Corporation,NUE,0.06%
+Kellogg Company,K,0.06%
+AES Corporation,AES,0.06%
+KeyCorp,KEY,0.06%
+Teledyne Technologies Incorporated,TDY,0.06%
+"Broadridge Financial Solutions, Inc.",BR,0.06%
+"ONEOK, Inc.",OKE,0.06%
+"Citrix Systems, Inc.",CTXS,0.06%
+"Hartford Financial Services Group, Inc.",HIG,0.06%
+"Expeditors International of Washington, Inc.",EXPD,0.06%
+"CarMax, Inc.",KMX,0.06%
+"Healthpeak Properties, Inc.",PEAK,0.06%
+"Ventas, Inc.",VTR,0.06%
+"Arista Networks, Inc.",ANET,0.06%
+"Martin Marietta Materials, Inc.",MLM,0.06%
+Dover Corporation,DOV,0.06%
+Western Digital Corporation,WDC,0.06%
+"United Rentals, Inc.",URI,0.06%
+"Citizens Financial Group, Inc.",CFG,0.06%
+"Essex Property Trust, Inc.",ESS,0.06%
+FMC Corporation,FMC,0.05%
+Hormel Foods Corporation,HRL,0.05%
+Omnicom Group Inc,OMC,0.05%
+Duke Realty Corporation,DRE,0.05%
+Hewlett Packard Enterprise Co.,HPE,0.05%
+"C.H. Robinson Worldwide, Inc.",CHRW,0.05%
+J.M. Smucker Company,SJM,0.05%
+Packaging Corporation of America,PKG,0.05%
+Huntington Bancshares Incorporated,HBAN,0.05%
+Tiffany & Co.,TIF,0.05%
+Eastman Chemical Company,EMN,0.05%
+"Darden Restaurants, Inc.",DRI,0.05%
+Carnival Corporation,CCL,0.05%
+Masco Corporation,MAS,0.05%
+"NetApp, Inc.",NTAP,0.05%
+Jacobs Engineering Group Inc.,J,0.05%
+"Mid-America Apartment Communities, Inc.",MAA,0.05%
+Avery Dennison Corporation,AVY,0.05%
+IDEX Corporation,IEX,0.05%
+Alliant Energy Corp,LNT,0.05%
+Seagate Technology PLC,STX,0.05%
+"Leidos Holdings, Inc.",LDOS,0.05%
+Brown-Forman Corporation Class B,BF.B,0.05%
+"Boston Properties, Inc.",BXP,0.05%
+Baker Hughes Company Class A,BKR,0.05%
+Cincinnati Financial Corporation,CINF,0.05%
+Hess Corporation,HES,0.05%
+Celanese Corporation,CE,0.05%
+Occidental Petroleum Corporation,OXY,0.05%
+Genuine Parts Company,GPC,0.05%
+"Gartner, Inc.",IT,0.05%
+"Nasdaq, Inc.",NDAQ,0.05%
+Extra Space Storage Inc.,EXR,0.05%
+Westinghouse Air Brake Technologies Corporation,WAB,0.05%
+Royal Caribbean Group,RCL,0.05%
+International Flavors & Fragrances Inc.,Other,0.04%
+"Lamb Weston Holdings, Inc. 4.625% 01-NOV-2024",Other,0.04%
+"Evergy, Inc.",EVRG,0.04%
+"Fortune Brands Home & Security, Inc.",FBHS,0.04%
+"J.B. Hunt Transport Services, Inc.",JBHT,0.04%
+Whirlpool Corporation,WHR,0.04%
+"Principal Financial Group, Inc.",PFG,0.04%
+"PulteGroup, Inc.",PHM,0.04%
+"Raymond James Financial, Inc.",RJF,0.04%
+Atmos Energy Corporation,ATO,0.04%
+"CenterPoint Energy, Inc.",CNP,0.04%
+Cboe Global Markets Inc,CBOE,0.04%
+Textron Inc.,TXT,0.04%
+"Everest Re Group, Ltd.",RE,0.04%
+"Hasbro, Inc.",HAS,0.04%
+"Host Hotels & Resorts, Inc.",HST,0.04%
+WestRock Company,WRK,0.04%
+"Advance Auto Parts, Inc.",AAP,0.04%
+"Wynn Resorts, Limited",WYNN,0.04%
+"F5 Networks, Inc.",FFIV,0.04%
+"Lumen Technologies, Inc.",LUMN,0.04%
+NortonLifeLock Inc.,NLOK,0.04%
+"UDR, Inc.",UDR,0.04%
+"Jack Henry & Associates, Inc.",JKHY,0.04%
+Campbell Soup Company,CPB,0.04%
+Howmet Aerospace Inc.,HWM,0.04%
+MGM Resorts International,MGM,0.04%
+"Live Nation Entertainment, Inc.",LYV,0.04%
+Concho Resources Inc.,CXO,0.04%
+"United Airlines Holdings, Inc.",UAL,0.04%
+Allegion PLC,ALLE,0.04%
+"Quanta Services, Inc.",PWR,0.04%
+Loews Corporation,L,0.04%
+EQUITY OTHER,Other,0.03%
+Pinnacle West Capital Corporation,PNW,0.03%
+Pentair plc,PNR,0.03%
+"American Airlines Group, Inc.",AAL,0.03%
+"CF Industries Holdings, Inc.",CF,0.03%
+Snap-on Incorporated,SNA,0.03%
+"L Brands, Inc.",LB,0.03%
+Nielsen Holdings Plc,NLSN,0.03%
+Newell Brands Inc,NWL,0.03%
+"Diamondback Energy, Inc.",FANG,0.03%
+BorgWarner Inc.,BWA,0.03%
+"Huntington Ingalls Industries, Inc.",HII,0.03%
+Western Union Company,WU,0.03%
+LKQ Corporation,LKQ,0.03%
+News Corporation Class A,NWSA,0.03%
+"Discovery, Inc. Class C",DISCK,0.03%
+Lincoln National Corporation,LNC,0.03%
+"Tapestry, Inc.",TPR,0.03%
+Fox Corporation Class A,FOXA,0.03%
+"Iron Mountain, Inc.",IRM,0.03%
+Molson Coors Beverage Company Class B,TAP,0.03%
+"Assurant, Inc.",AIZ,0.03%
+"Interpublic Group of Companies, Inc.",IPG,0.03%
+Globe Life Inc.,GL,0.03%
+W. R. Berkley Corporation,WRB,0.03%
+"Mohawk Industries, Inc.",MHK,0.03%
+Comerica Incorporated,CMA,0.03%
+"NRG Energy, Inc.",NRG,0.03%
+NiSource Inc,NI,0.03%
+DISH Network Corporation Class A,DISH,0.03%
+A. O. Smith Corporation,AOS,0.03%
+IPG Photonics Corporation,IPGP,0.03%
+Mosaic Company,MOS,0.03%
+Norwegian Cruise Line Holdings Ltd.,NCLH,0.03%
+"Rollins, Inc.",ROL,0.03%
+"Juniper Networks, Inc.",JNPR,0.03%
+Zions Bancorporation NA Non Cum Perp Pfd Registered Shs Series I,ZION4135553,0.02%
+"People\'s United Financial, Inc.",PBCT,0.02%
+DXC Technology Co.,DXC,0.02%
+"Discovery, Inc. Class A",DISCA,0.02%
+Regency Centers Corporation,REG,0.02%
+Apache Corporation,APA,0.02%
+Federal Realty Investment Trust,FRT,0.02%
+Devon Energy Corporation,DVN,0.02%
+Invesco Ltd.,IVZ,0.02%
+Hanesbrands Inc.,HBI,0.02%
+"Franklin Resources, Inc.",BEN,0.02%
+"Alaska Air Group, Inc.",ALK,0.02%
+Unum Group,UNM,0.02%
+Vontier Corp,VNT,0.02%
+Marathon Oil Corporation,MRO,0.02%
+"Leggett & Platt, Incorporated",LEG,0.02%
+Vornado Realty Trust,VNO,0.02%
+Ralph Lauren Corporation Class A,RL,0.02%
+Sealed Air Corporation,SEE,0.02%
+"FLIR Systems, Inc.",FLIR,0.02%
+NOV Inc.,NOV,0.02%
+Kimco Realty Corporation,KIM,0.02%
+Cabot Oil & Gas Corporation,COG,0.02%
+PVH Corp.,PVH,0.02%
+News Corporation Class B,NWS,0.01%
+SL Green Realty Corp.,SLG,0.01%
+Xerox Holdings Corporation,XRX,0.01%
+HollyFrontier Corporation,HFC,0.01%
+Fox Corporation Class B,FOX,0.01%
+"Under Armour, Inc. Class A",UAA,0.01%
+"Gap, Inc.",GPS,0.01%
+TechnipFMC Plc,FTI,0.01%
+"Under Armour, Inc. Class C",UA,0.01%
+Flowserve Corporation,FLS,0.01%

@@ -1,0 +1,24 @@
+NRGZ: MicroSectors U.S. Big Oil Index -2X Inverse Leveraged ETN
+Inception Date: 2019-04-09
+Fund Holdings as of: 2020-09-29
+Total Assets Under Management (in thousands):	9875
+Shares Outstanding: 500000
+Expense Ratio: 0.95%
+Tracks This Index: Solactive MicroSectors U.S. Big Oil Index (200%)
+ETFdb.com Category: Leveraged Equities
+Issuer: BMO Financial Group
+Structure: ETN
+ETF Home Page: https://etfdb.com/etf/NRGZ
+
+
+Holding,Symbol,Weighting
+Cash Component,CASH,200.0%
+ConocoPhillips,COP,-9.4392%
+Phillips 66,PSX,-9.6117%
+Chevron Corp,CVX,-9.6648%
+Exxon Mobil Corp,XOM,-9.8285%
+Occidental Petroleum Corp,OXY,-9.8637%
+Marathon Petroleum Corp,MPC,-10.0357%
+Valero Energy Corp,VLO,-10.0601%
+EOG Resources Inc,EOG,-10.6816%
+Pioneer Natural Resources Co,PXD,-10.7166%

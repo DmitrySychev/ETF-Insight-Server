@@ -1,0 +1,366 @@
+QRFT: QRAFT AI Enhanced U.S. Large Cap ETF
+Inception Date: 2019-05-21
+Fund Holdings as of: 2021-01-04
+Total Assets Under Management (in thousands):	27306
+Shares Outstanding: 725000
+Expense Ratio: 0.75%
+Tracks This Index: n/a
+ETFdb.com Category: Large Cap Growth Equities
+Issuer: Exchange Traded Concepts
+Structure: ETF
+ETF Home Page: https://etfdb.com/etf/QRFT
+
+
+Holding,Symbol,Weighting
+Apple Inc.,AAPL,2.36%
+"Amazon.com, Inc.",AMZN,2.23%
+Alphabet Inc. Class A,GOOGL,1.66%
+"Cadence Design Systems, Inc.",CDNS,1.52%
+Intuit Inc.,INTU,1.44%
+Pegasystems Inc.,PEGA,1.17%
+"Facebook, Inc. Class A",FB,1.14%
+Microsoft Corporation,MSFT,1.1%
+"Zendesk, Inc.",ZEN,1.09%
+"Workday, Inc. Class A",WDAY,1.08%
+Wix.com Ltd.,WIX,1.07%
+"Autodesk, Inc.",ADSK,1.07%
+"Advanced Micro Devices, Inc.",AMD,1.07%
+Inphi Corporation,IPHI,1.03%
+"Seagen, Inc.",SGEN,1.01%
+Tesla Inc,TSLA,1.0%
+Atlassian Corp. Plc Class A,TEAM,0.99%
+"RingCentral, Inc. Class A",RNG,0.99%
+"Manhattan Associates, Inc.",MANH,0.98%
+"DexCom, Inc.",DXCM,0.91%
+Vertex Pharmaceuticals Incorporated,VRTX,0.84%
+NVIDIA Corporation,NVDA,0.84%
+"Ultragenyx Pharmaceutical, Inc.",RARE,0.79%
+Adobe Inc.,ADBE,0.78%
+"ServiceNow, Inc.",NOW,0.76%
+"Five9, Inc.",FIVN,0.75%
+Johnson & Johnson,JNJ,0.73%
+Qualcomm Inc,QCOM,0.71%
+"Shopify, Inc. Class A",SHOP,0.71%
+NovoCure Ltd.,NVCR,0.7%
+"Novavax, Inc.",NVAX,0.69%
+"Xilinx, Inc.",XLNX,0.69%
+Incyte Corporation,INCY,0.64%
+BioMarin Pharmaceutical Inc.,BMRN,0.64%
+Veeva Systems Inc Class A,VEEV,0.63%
+"Aspen Technology, Inc.",AZPN,0.62%
+Eli Lilly and Company,LLY,0.6%
+"Natera, Inc.",NTRA,0.6%
+"Synopsys, Inc.",SNPS,0.58%
+"Ionis Pharmaceuticals, Inc.",IONS,0.56%
+Edwards Lifesciences Corporation,EW,0.56%
+"Illumina, Inc.",ILMN,0.55%
+"Merck & Co., Inc.",MRK,0.55%
+Splunk Inc.,SPLK,0.55%
+"HubSpot, Inc.",HUBS,0.52%
+UnitedHealth Group Incorporated,UNH,0.5%
+Invitae Corp.,NVTA,0.5%
+"AbbVie, Inc.",ABBV,0.49%
+Ciena Corporation,CIEN,0.49%
+Bristol-Myers Squibb Company,BMY,0.48%
+"Intuitive Surgical, Inc.",ISRG,0.48%
+"Fortinet, Inc.",FTNT,0.46%
+"ANSYS, Inc.",ANSS,0.46%
+"salesforce.com, inc.",CRM,0.46%
+"Neurocrine Biosciences, Inc.",NBIX,0.46%
+Acceleron Pharma Inc,XLRN,0.45%
+"Palo Alto Networks, Inc.",PANW,0.45%
+Intel Corporation,INTC,0.44%
+Insulet Corporation,PODD,0.44%
+"Monolithic Power Systems, Inc.",MPWR,0.43%
+PTC Inc.,PTC,0.42%
+"ABIOMED, Inc.",ABMD,0.42%
+"Citrix Systems, Inc.",CTXS,0.42%
+"Netflix, Inc.",NFLX,0.41%
+Fair Isaac Corporation,FICO,0.41%
+ACADIA Pharmaceuticals Inc.,ACAD,0.41%
+Cognex Corporation,CGNX,0.4%
+"Guidewire Software, Inc.",GWRE,0.4%
+"Maxim Integrated Products, Inc.",MXIM,0.39%
+"Sarepta Therapeutics, Inc.",SRPT,0.39%
+Ubiquiti Inc.,UI,0.39%
+Visa Inc. Class A,V,0.39%
+"IDEXX Laboratories, Inc.",IDXX,0.39%
+"Square, Inc. Class A",SQ,0.39%
+Abbott Laboratories,ABT,0.39%
+"Arista Networks, Inc.",ANET,0.39%
+"Enphase Energy, Inc.",ENPH,0.39%
+"VMware, Inc. Class A",VMW,0.38%
+"Teradyne, Inc.",TER,0.38%
+Texas Instruments Incorporated,TXN,0.38%
+"Alnylam Pharmaceuticals, Inc",ALNY,0.38%
+Pfizer Inc.,PFE,0.38%
+Broadcom Inc.,AVGO,0.37%
+KLA Corporation,KLAC,0.37%
+Universal Display Corporation,OLED,0.37%
+Mirati Therapeutics Inc.,MRTX,0.37%
+"Cisco Systems, Inc.",CSCO,0.36%
+PayPal Holdings Inc,PYPL,0.36%
+"NIKE, Inc. Class B",NKE,0.36%
+"MongoDB, Inc. Class A",MDB,0.35%
+Appian Corporation Class A,APPN,0.35%
+Mastercard Incorporated Class A,MA,0.35%
+"Applied Materials, Inc.",AMAT,0.35%
+"VeriSign, Inc.",VRSN,0.35%
+"Twilio, Inc. Class A",TWLO,0.35%
+Electronic Arts Inc.,EA,0.35%
+Thermo Fisher Scientific Inc.,TMO,0.34%
+Amgen Inc.,AMGN,0.34%
+Danaher Corporation,DHR,0.34%
+"Okta, Inc. Class A",OKTA,0.34%
+"Motorola Solutions, Inc.",MSI,0.34%
+Marvell Technology Group Ltd.,MRVL,0.33%
+Oracle Corporation,ORCL,0.33%
+"F5 Networks, Inc.",FFIV,0.33%
+Lam Research Corporation,LRCX,0.33%
+"Zoetis, Inc. Class A",ZTS,0.33%
+"Align Technology, Inc.",ALGN,0.32%
+Keysight Technologies Inc,KEYS,0.32%
+Medtronic Plc,MDT,0.32%
+Accenture Plc Class A,ACN,0.31%
+"Skyworks Solutions, Inc.",SWKS,0.31%
+"NetApp, Inc.",NTAP,0.31%
+Masimo Corporation,MASI,0.31%
+"Regeneron Pharmaceuticals, Inc.",REGN,0.31%
+"MercadoLibre, Inc.",MELI,0.3%
+Exact Sciences Corporation,EXAS,0.3%
+"GoDaddy, Inc. Class A",GDDY,0.3%
+"Coupa Software, Inc.",COUP,0.29%
+"Dolby Laboratories, Inc. Class A",DLB,0.29%
+Honeywell International Inc.,HON,0.28%
+"Snap, Inc. Class A",SNAP,0.27%
+"Alexion Pharmaceuticals, Inc.",ALXN,0.27%
+"Lumentum Holdings, Inc.",LITE,0.26%
+"SolarEdge Technologies, Inc.",SEDG,0.26%
+"Gilead Sciences, Inc.",GILD,0.26%
+"Chegg, Inc.",CHGG,0.26%
+"RealPage, Inc.",RP,0.26%
+Stryker Corporation,SYK,0.26%
+Zynga Inc. Class A,ZNGA,0.25%
+Yandex NV Class A,YNDX,0.25%
+"Etsy, Inc.",ETSY,0.25%
+Logitech International S.A.,LOGN,0.25%
+"Dropbox, Inc. Class A",DBX,0.25%
+"Activision Blizzard, Inc.",ATVI,0.24%
+Mettler-Toledo International Inc.,MTD,0.24%
+"Cree, Inc.",CREE,0.24%
+"Penumbra, Inc.",PEN,0.24%
+"Entegris, Inc.",ENTG,0.23%
+Zebra Technologies Corporation Class A,ZBRA,0.23%
+NXP Semiconductors NV,NXPI,0.23%
+Bruker Corporation,BRKR,0.23%
+Seagate Technology PLC,STX,0.23%
+"iRhythm Technologies, Inc.",IRTC,0.23%
+International Business Machines Corporation,IBM,0.23%
+3M Company,MMM,0.22%
+"Alteryx, Inc. Class A",AYX,0.22%
+Boeing Company,BA,0.22%
+"Twitter, Inc.",TWTR,0.22%
+Baxter International Inc.,BAX,0.22%
+Starbucks Corporation,SBUX,0.22%
+Boston Scientific Corporation,BSX,0.22%
+"Varian Medical Systems, Inc.",VAR,0.22%
+"Agilent Technologies, Inc.",A,0.21%
+CRISPR Therapeutics AG,CRSP,0.21%
+ResMed Inc.,RMD,0.21%
+Cerner Corporation,CERN,0.21%
+Caterpillar Inc.,CAT,0.21%
+Ferrari NV,RACE,0.21%
+"Zscaler, Inc.",ZS,0.21%
+"Becton, Dickinson and Company",BDX,0.21%
+"Teladoc Health, Inc.",TDOC,0.2%
+Biogen Inc.,BIIB,0.2%
+"Jack Henry & Associates, Inc.",JKHY,0.2%
+Raytheon Technologies Corporation,RTX,0.2%
+"Smartsheet, Inc. Class A",SMAR,0.2%
+"BlackLine, Inc.",BL,0.19%
+"Match Group, Inc.",MTCH,0.19%
+Lockheed Martin Corporation,LMT,0.19%
+"Roku, Inc. Class A",ROKU,0.19%
+Trimble Inc.,TRMB,0.19%
+"Paycom Software, Inc.",PAYC,0.19%
+"Zillow Group, Inc. Class A",ZG,0.19%
+Spotify Technology SA,SPOT,0.19%
+ON Semiconductor Corporation,ON,0.18%
+Paylocity Holding Corp.,PCTY,0.18%
+Plug Power Inc.,PLUG,0.18%
+Deere & Company,DE,0.18%
+Quidel Corporation,QDEL,0.18%
+"Akamai Technologies, Inc.",AKAM,0.18%
+Axon Enterprise Inc,AAXN,0.18%
+Avalara Inc,AVLR,0.18%
+"Uber Technologies, Inc.",UBER,0.18%
+IPG Photonics Corporation,IPGP,0.18%
+Bio-Techne Corporation,TECH,0.18%
+Waters Corporation,WAT,0.18%
+"Micron Technology, Inc.",MU,0.17%
+"Analog Devices, Inc.",ADI,0.17%
+Horizon Therapeutics Public Limited Company,HZNP,0.17%
+"Qorvo, Inc.",QRVO,0.17%
+"Take-Two Interactive Software, Inc.",TTWO,0.17%
+"West Pharmaceutical Services, Inc.",WST,0.17%
+"DocuSign, Inc.",DOCU,0.17%
+"Automatic Data Processing, Inc.",ADP,0.17%
+"Juniper Networks, Inc.",JNPR,0.17%
+MUTUAL FUND (OTHER),Other,0.16%
+"Hologic, Inc.",HOLX,0.16%
+Denali Therapeutics Inc.,DNLI,0.16%
+Colgate-Palmolive Company,CL,0.16%
+Check Point Software Technologies Ltd.,CHKP,0.16%
+QIAGEN NV,QGEN,0.16%
+"PerkinElmer, Inc.",PKI,0.16%
+Illinois Tool Works Inc.,ITW,0.16%
+"Tyler Technologies, Inc.",TYL,0.16%
+Microchip Technology Incorporated,MCHP,0.16%
+eBay Inc.,EBAY,0.16%
+"Bio-Rad Laboratories, Inc. Class A",BIO,0.16%
+Jazz Pharmaceuticals Plc,JAZZ,0.15%
+Garmin Ltd.,GRMN,0.15%
+"CoStar Group, Inc.",CSGP,0.15%
+NortonLifeLock Inc.,NLOK,0.15%
+Teleflex Incorporated,TFX,0.15%
+Open Text Corporation,OTEX,0.15%
+Humana Inc.,HUM,0.15%
+"Rockwell Automation, Inc.",ROK,0.15%
+"MKS Instruments, Inc.",MKSI,0.15%
+Graco Inc.,GGG,0.14%
+"Guardant Health, Inc.",GH,0.14%
+"Zimmer Biomet Holdings, Inc.",ZBH,0.14%
+"Peloton Interactive, Inc. Class A",PTON,0.14%
+MSCI Inc. Class A,MSCI,0.14%
+"Fidelity National Information Services, Inc.",FIS,0.14%
+Emerson Electric Co.,EMR,0.13%
+"Roper Technologies, Inc.",ROP,0.13%
+"Pinterest, Inc. Class A",PINS,0.13%
+"Zoom Video Communications, Inc. Class A",ZM,0.13%
+Repligen Corporation,RGEN,0.13%
+"Grubhub, Inc.",GRUB,0.13%
+L3Harris Technologies Inc,LHX,0.13%
+"Nuance Communications, Inc.",NUAN,0.13%
+Northrop Grumman Corporation,NOC,0.13%
+HP Inc.,HPQ,0.13%
+"Cooper Companies, Inc.",COO,0.13%
+Amphenol Corporation Class A,APH,0.13%
+"Moderna, Inc.",MRNA,0.13%
+"Ross Stores, Inc.",ROST,0.12%
+Centene Corporation,CNC,0.12%
+Lululemon Athletica Inc,LULU,0.12%
+"Amedisys, Inc.",AMED,0.12%
+Amdocs Limited,DOX,0.12%
+"Fiserv, Inc.",FISV,0.12%
+STERIS Plc,STE,0.12%
+Eaton Corp. Plc,ETN,0.12%
+Toro Company,TTC,0.12%
+"Yum! Brands, Inc.",YUM,0.12%
+Western Digital Corporation,WDC,0.12%
+IQVIA Holdings Inc,IQV,0.12%
+Lennox International Inc.,LII,0.11%
+Trane Technologies plc,TT,0.11%
+Cummins Inc.,CMI,0.11%
+IAC/InteractiveCorp.,IAC,0.11%
+Catalent Inc,CTLT,0.11%
+"Hasbro, Inc.",HAS,0.11%
+"PPG Industries, Inc.",PPG,0.11%
+"Chipotle Mexican Grill, Inc.",CMG,0.11%
+Global Payments Inc.,GPN,0.11%
+Elastic NV,ESTC,0.11%
+Verisk Analytics Inc,VRSK,0.11%
+Teledyne Technologies Incorporated,TDY,0.11%
+Fortive Corp.,FTV,0.11%
+Lyft Inc Class A,LYFT,0.11%
+"Donaldson Company, Inc.",DCI,0.11%
+TransDigm Group Incorporated,TDG,0.11%
+Xylem Inc.,XYL,0.11%
+Chemed Corporation,CHE,0.11%
+FactSet Research Systems Inc.,FDS,0.11%
+TE Connectivity Ltd.,TEL,0.11%
+"AMETEK, Inc.",AME,0.11%
+Parker-Hannifin Corporation,PH,0.11%
+"Molina Healthcare, Inc.",MOH,0.11%
+Adaptive Biotechnologies Corp.,ADPT,0.11%
+"PRA Health Sciences, Inc.",PRAH,0.1%
+II-VI Incorporated,IIVI,0.1%
+Clorox Company,CLX,0.1%
+10x Genomics Inc Class A,TXG,0.1%
+"Aptargroup, Inc.",ATR,0.1%
+"Sirius XM Holdings, Inc.",SIRI,0.1%
+"Morningstar, Inc.",MORN,0.1%
+"Trex Company, Inc.",TREX,0.1%
+Gentex Corporation,GNTX,0.1%
+"DENTSPLY SIRONA, Inc.",XRAY,0.1%
+SEI Investments Company,SEIC,0.1%
+McKesson Corporation,MCK,0.1%
+Bausch Health Companies Inc.,BHC,0.1%
+Allegion PLC,ALLE,0.1%
+ICON Plc,ICLR,0.1%
+"Rollins, Inc.",ROL,0.1%
+Autoliv Inc.,ALV,0.1%
+HEICO Corporation,HEI,0.1%
+Generac Holdings Inc.,GNRC,0.1%
+FMC Corporation,FMC,0.09%
+AmerisourceBergen Corporation,ABC,0.09%
+"Woodward, Inc.",WWD,0.09%
+"Cardinal Health, Inc.",CAH,0.09%
+"Wayfair, Inc. Class A",W,0.09%
+"GoodRx Holdings, Inc. Class A",GDRX,0.09%
+"Lincoln Electric Holdings, Inc.",LECO,0.09%
+IDEX Corporation,IEX,0.09%
+Nordson Corporation,NDSN,0.09%
+International Flavors & Fragrances Inc.,IFF,0.09%
+"Elanco Animal Health, Inc.",ELAN,0.09%
+Sealed Air Corporation,SEE,0.09%
+"Charles River Laboratories International, Inc.",CRL,0.09%
+Deckers Outdoor Corporation,DECK,0.09%
+Encompass Health Corporation,EHC,0.08%
+"C.H. Robinson Worldwide, Inc.",CHRW,0.08%
+Perrigo Co. Plc,PRGO,0.08%
+BorgWarner Inc.,BWA,0.08%
+Corning Inc,GLW,0.08%
+Avery Dennison Corporation,AVY,0.08%
+Quest Diagnostics Incorporated,DGX,0.08%
+"Viatris, Inc.",VTRS,0.08%
+"PPD, Inc.",PPD,0.08%
+"Five Below, Inc.",FIVE,0.08%
+Canopy Growth Corporation,WEED,0.08%
+DraftKings Inc Class A,DKNG,0.08%
+"ZoomInfo Technologies, Inc. Class A",ZI,0.07%
+"Paychex, Inc.",PAYX,0.06%
+Nikola Corporation,NKLA,0.06%
+"Trade Desk, Inc. Class A",TTD,0.05%
+Cognizant Technology Solutions Corporation Class A,CTSH,0.04%
+"Anaplan, Inc.",PLAN,0.02%
+"EPAM Systems, Inc.",EPAM,0.02%
+"CrowdStrike Holdings, Inc. Class A",CRWD,0.02%
+Globant SA,GLOB,0.02%
+"Slack Technologies, Inc. Class A",WORK,0.01%
+"Euronet Worldwide, Inc.",EEFT,0.01%
+PagSeguro Digital Ltd. Class A,PAGS,0.01%
+"nCino, Inc.",NCNO,0.01%
+"First Solar, Inc.",FSLR,0.01%
+Cloudflare Inc Class A,NET,0.01%
+Hewlett Packard Enterprise Co.,HPE,0.01%
+"Bill.com Holdings, Inc.",BILL,0.01%
+Western Union Company,WU,0.01%
+"Lightspeed POS, Inc.",LSPD,0.01%
+"Ceridian HCM Holding, Inc.",CDAY,0.01%
+"Leidos Holdings, Inc.",LDOS,0.01%
+"Fastly, Inc. Class A",FSLY,0.01%
+"Broadridge Financial Solutions, Inc.",BR,0.01%
+Booz Allen Hamilton Holding Corporation Class A,BAH,0.01%
+Datadog Inc Class A,DDOG,0.01%
+StoneCo Ltd. Class A,STNE,0.01%
+CGI Inc. Class A,GIB.A,0.01%
+"Gartner, Inc.",IT,0.01%
+Genpact Limited,G,0.01%
+"Unity Software, Inc.",U,0.01%
+Flex Ltd.,FLEX,0.01%
+WEX Inc.,WEX,0.01%
+"FLEETCOR Technologies, Inc.",FLT,0.01%
+Palantir Technologies Inc. Class A,PLTR,0.01%
+"Dynatrace, Inc.",DT,0.01%
+U.S. Dollar,Other,0.0%
+SYNNEX Corporation,SNX,0.0%

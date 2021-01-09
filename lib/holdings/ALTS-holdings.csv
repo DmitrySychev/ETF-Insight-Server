@@ -1,0 +1,22 @@
+ALTS: ProShares Morningstar Alternatives Solution ETF
+Inception Date: 2014-10-08
+Fund Holdings as of: 2020-12-31
+Total Assets Under Management (in thousands):	7320
+Shares Outstanding: 200000
+Expense Ratio: 0.95%
+Tracks This Index: Morningstar Diversified Alternatives Index
+ETFdb.com Category: Long-Short
+Issuer: ProShares
+Structure: ETF
+ETF Home Page: https://etfdb.com/etf/ALTS
+
+
+Holding,Symbol,Weighting
+ProShares Merger ETF,MRGR,25.24%
+ProShares Hedge Replication ETF,HDG,23.62%
+ProShares Inflation Expectations ETF,RINF,15.76%
+ProShares Managed Futures Strategy ETF,FUT,13.3%
+ProShares Global Listed Private Equity ETF,PEX,9.14%
+ProShares RAFI Long/Short ETF,RALS,7.94%
+ProShares DJ Brookfield Global Infrastructure ETF,TOLZ,4.91%
+U.S. Dollar,Other,0.09%

@@ -1,0 +1,20 @@
+EAOM: iShares ESG Aware Moderate Allocation ETF
+Inception Date: 2020-06-12
+Fund Holdings as of: 2020-12-31
+Total Assets Under Management (in thousands):	4161
+Shares Outstanding: 150000
+Expense Ratio: 0.18%
+Tracks This Index: BlackRock ESG Aware Moderate Allocation Index
+ETFdb.com Category: Diversified Portfolio
+Issuer: iShares
+Structure: ETF
+ETF Home Page: https://etfdb.com/etf/EAOM
+
+
+Holding,Symbol,Weighting
+iShares ESG Aware US Aggregate Bond ETF,EAGG,57.5%
+iShares ESG Aware MSCI USA ETF,ESGU,23.34%
+iShares ESG Aware MSCI EAFE ETF,ESGD,10.85%
+iShares ESG Aware MSCI EM ETF,ESGE,5.19%
+iShares ESG Aware MSCI USA Small-Cap ETF,ESML,2.91%
+U.S. Dollar,Other,0.2%

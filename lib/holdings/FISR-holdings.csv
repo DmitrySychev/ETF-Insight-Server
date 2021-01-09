@@ -1,0 +1,21 @@
+FISR: SPDR SSGA Fixed Income Sector Rotation ETF
+Inception Date: 2019-04-02
+Fund Holdings as of: 2020-12-31
+Total Assets Under Management (in thousands):	58218
+Shares Outstanding: 1810000
+Expense Ratio: 0.5%
+Tracks This Index: n/a
+ETFdb.com Category: Total Bond Market
+Issuer: State Street SPDR
+Structure: ETF
+ETF Home Page: https://etfdb.com/etf/FISR
+
+
+Holding,Symbol,Weighting
+SPDR Portfolio Mortgage Backed Bond ETF,SPMB,32.79%
+SPDR Portfolio Long Term Corporate Bond ETF,SPLB,31.91%
+SPDR Portfolio Intermediate Term Corporate Bond ETF,SPIB,15.56%
+SPDR Portfolio Intermediate Term Treasury ETF,SPTI,12.79%
+SPDR Portfolio Long Term Treasury ETF,SPTL,5.67%
+SPDR Bloomberg Barclays High Yield Bond ETF,JNK,1.14%
+U.S. Dollar,Other,0.13%

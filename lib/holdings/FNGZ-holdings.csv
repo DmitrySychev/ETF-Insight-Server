@@ -1,0 +1,25 @@
+FNGZ: MicroSectors FANG+ Index -2X Inverse Leveraged ETN
+Inception Date: 2018-08-01
+Fund Holdings as of: 2020-09-29
+Total Assets Under Management (in thousands):	4323
+Shares Outstanding: 1000000
+Expense Ratio: 0.95%
+Tracks This Index: NYSE FANG+ Index (-200%)
+ETFdb.com Category: Leveraged Equities
+Issuer: BMO Financial Group
+Structure: ETN
+ETF Home Page: https://etfdb.com/etf/FNGZ
+
+
+Holding,Symbol,Weighting
+Cash Component,CASH,200.0%
+NVIDIA Corp,NVDA,-8.5473%
+Baidu Inc,BIDU,-8.9715%
+Amazon.com Inc,AMZN,-9.1524%
+Netflix Inc,NFLX,-9.1816%
+Alibaba Group Holding Ltd,BABA,-9.5549%
+Alphabet Inc,GOOGL,-9.7354%
+Facebook Inc,FB,-9.8183%
+Apple Inc,AAPL,-9.988%
+Tesla Inc,TSLA,-12.1656%
+Twitter Inc,TWTR,-12.885%

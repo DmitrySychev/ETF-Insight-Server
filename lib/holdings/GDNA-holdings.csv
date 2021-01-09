@@ -1,0 +1,520 @@
+GDNA: Goldman Sachs Human Evolution ETF
+Inception Date: 2019-03-01
+Fund Holdings as of: 2020-11-04
+Total Assets Under Management (in thousands):	63298
+Shares Outstanding: 950000
+Expense Ratio: 0.5%
+Tracks This Index: Motif Human Evolution Index
+ETFdb.com Category: Health & Biotech Equities
+Issuer: Goldman Sachs
+Structure: ETF
+ETF Home Page: https://etfdb.com/etf/GDNA
+
+
+Holding,Symbol,Weighting
+Alphabet Inc. Class A,GOOGL,2.05%
+Alibaba Group Holding Ltd. Sponsored ADR,BABA,1.91%
+"Facebook, Inc. Class A",FB,1.9%
+Microsoft Corporation,MSFT,1.86%
+"Amazon.com, Inc.",AMZN,1.85%
+Apple Inc.,AAPL,1.79%
+NVIDIA Corporation,NVDA,1.69%
+Tencent Holdings Ltd.,700,1.39%
+Johnson & Johnson,JNJ,1.23%
+Roche Holding AG,ROG,1.2%
+Abbott Laboratories,ABT,1.1%
+Novartis AG,NOVN,0.97%
+Medtronic Plc,MDT,0.93%
+Intel Corporation,INTC,0.86%
+"Baidu, Inc. Sponsored ADR Class A",BIDU,0.79%
+Sanofi,SAN,0.79%
+AstraZeneca PLC,AZN,0.77%
+"Intuitive Surgical, Inc.",ISRG,0.74%
+"MercadoLibre, Inc.",MELI,0.68%
+"Gilead Sciences, Inc.",GILD,0.68%
+Tesla Inc,TSLA,0.68%
+Thermo Fisher Scientific Inc.,TMO,0.67%
+Stryker Corporation,SYK,0.67%
+"Regeneron Pharmaceuticals, Inc.",REGN,0.61%
+Walmart Inc.,WMT,0.6%
+Visa Inc. Class A,V,0.58%
+"Square, Inc. Class A",SQ,0.58%
+Mastercard Incorporated Class A,MA,0.56%
+International Business Machines Corporation,IBM,0.56%
+PayPal Holdings Inc,PYPL,0.55%
+Intuit Inc.,INTU,0.54%
+BioNTech SE Sponsored ADR,BNTX,0.5%
+"AbbVie, Inc.",ABBV,0.5%
+"Illumina, Inc.",ILMN,0.5%
+"DexCom, Inc.",DXCM,0.49%
+Walt Disney Company,DIS,0.49%
+Toyota Motor Corp.,7203,0.48%
+NIO Inc. Sponsored ADR Class A,NIO,0.47%
+"Moderna, Inc.",MRNA,0.47%
+Qualcomm Inc,QCOM,0.45%
+Pfizer Inc.,PFE,0.45%
+General Electric Company,GE,0.44%
+"salesforce.com, inc.",CRM,0.44%
+Bristol-Myers Squibb Company,BMY,0.44%
+"Merck & Co., Inc.",MRK,0.43%
+"BlackRock, Inc.",BLK,0.43%
+Eli Lilly and Company,LLY,0.42%
+Broadcom Inc.,AVGO,0.42%
+Adobe Inc.,ADBE,0.41%
+"Cisco Systems, Inc.",CSCO,0.41%
+FedEx Corporation,FDX,0.41%
+"Pinduoduo, Inc. Sponsored ADR Class A",PDD,0.4%
+"Zoom Video Communications, Inc. Class A",ZM,0.4%
+QIAGEN NV,QGEN,0.4%
+Amgen Inc.,AMGN,0.39%
+"Teradyne, Inc.",TER,0.39%
+Insulet Corporation,PODD,0.38%
+Boeing Company,BA,0.38%
+General Motors Company,GM,0.38%
+"NIKE, Inc. Class B",NKE,0.38%
+"Teladoc Health, Inc.",TDOC,0.37%
+IPG Photonics Corporation,IPGP,0.37%
+Nidec Corporation,6594,0.36%
+Sony Corporation,6758,0.36%
+Boston Scientific Corporation,BSX,0.36%
+Sea Ltd. (Singapore) Sponsored ADR Class A,SE,0.35%
+"JD.com, Inc. Sponsored ADR Class A",JD,0.35%
+"Goldman Sachs Group, Inc.",GS,0.35%
+Smith & Nephew plc,SN,0.35%
+"Snap, Inc. Class A",SNAP,0.35%
+"Ping An Insurance (Group) Company of China, Ltd. Class H",2318,0.34%
+Cerner Corporation,CERN,0.34%
+Edwards Lifesciences Corporation,EW,0.34%
+"Digital Realty Trust, Inc.",DLR,0.34%
+"Uber Technologies, Inc.",UBER,0.34%
+"NetEase, Inc. Sponsored ADR",NTES,0.33%
+Adyen NV,ADYEN,0.33%
+ABB Ltd.,ABBN,0.33%
+"Intercontinental Exchange, Inc.",ICE,0.33%
+"NextEra Energy, Inc.",NEE,0.33%
+Fanuc Corporation,6954,0.33%
+"Fiserv, Inc.",FISV,0.33%
+Exact Sciences Corporation,EXAS,0.32%
+"Shopify, Inc. Class A",SHOP,0.32%
+"S&P Global, Inc.",SPGI,0.31%
+Ford Motor Company,F,0.31%
+"Netflix, Inc.",NFLX,0.3%
+Morgan Stanley,MS,0.3%
+"ABIOMED, Inc.",ABMD,0.3%
+Oracle Corporation,ORCL,0.3%
+"Autodesk, Inc.",ADSK,0.3%
+Keyence Corporation,6861,0.3%
+Vertex Pharmaceuticals Incorporated,VRTX,0.29%
+MSCI Inc. Class A,MSCI,0.29%
+Aptiv PLC,APTV,0.29%
+SAP SE,SAP,0.29%
+Infineon Technologies AG,IFX,0.28%
+"Twitter, Inc.",TWTR,0.28%
+"Activision Blizzard, Inc.",ATVI,0.27%
+Charles Schwab Corporation,SCHW,0.27%
+"United Parcel Service, Inc. Class B",UPS,0.27%
+"Equinix, Inc.",EQIX,0.27%
+Koninklijke Philips N.V.,PHIA,0.27%
+Adaptive Biotechnologies Corp.,ADPT,0.27%
+"Peloton Interactive, Inc. Class A",PTON,0.26%
+"Fate Therapeutics, Inc.",FATE,0.26%
+GlaxoSmithKline plc,GSK,0.26%
+Blackstone Group Inc. Class A,BX,0.26%
+Novanta Inc,NOVT,0.25%
+"DocuSign, Inc.",DOCU,0.25%
+Electronic Arts Inc.,EA,0.25%
+Dassault Systemes SA,DSY,0.25%
+Global Payments Inc.,GPN,0.24%
+Dominion Energy Inc,D,0.24%
+Alibaba Health Information Technology Ltd.,241,0.24%
+"Rocket Pharmaceuticals, Inc.",RCKT,0.24%
+"iRhythm Technologies, Inc.",IRTC,0.23%
+"Okta, Inc. Class A",OKTA,0.23%
+KKR & Co. Inc.,KKR,0.23%
+"Xinjiang Goldwind Science & Technology Co., Ltd. Class H",2208,0.22%
+Keysight Technologies Inc,KEYS,0.22%
+"Guardant Health, Inc.",GH,0.22%
+Verisk Analytics Inc,VRSK,0.22%
+Teledyne Technologies Incorporated,TDY,0.22%
+Lululemon Athletica Inc,LULU,0.22%
+Schneider Electric SE,SU,0.22%
+"Rockwell Automation, Inc.",ROK,0.22%
+Masimo Corporation,MASI,0.22%
+Brookfield Renewable Partners LP,BEP.UT,0.22%
+ANTA Sports Products Ltd.,2020,0.22%
+"Avangrid, Inc.",AGR,0.21%
+"Skyworks Solutions, Inc.",SWKS,0.21%
+"SS&C Technologies Holdings, Inc.",SSNC,0.21%
+Cognex Corporation,CGNX,0.21%
+"Fidelity National Information Services, Inc.",FIS,0.21%
+"CrowdStrike Holdings, Inc. Class A",CRWD,0.21%
+BANDAI NAMCO Holdings Inc.,7832,0.21%
+"Fortinet, Inc.",FTNT,0.2%
+Marvell Technology Group Ltd.,MRVL,0.2%
+"Xilinx, Inc.",XLNX,0.2%
+"Sangamo Therapeutics, Inc.",SGMO,0.2%
+"FLEETCOR Technologies, Inc.",FLT,0.2%
+"Intellia Therapeutics, Inc.",NTLA,0.2%
+"iQIYI, Inc. Sponsored ADR Class A",IQ,0.19%
+Nokia Oyj Sponsored ADR,NOK,0.19%
+"Agilent Technologies, Inc.",A,0.19%
+"Editas Medicine, Inc.",EDIT,0.19%
+Continental AG,CON,0.19%
+Booking Holdings Inc.,BKNG,0.19%
+"Qorvo, Inc.",QRVO,0.19%
+HP Inc.,HPQ,0.19%
+"Take-Two Interactive Software, Inc.",TTWO,0.19%
+Yandex NV Class A,YNDX,0.19%
+"Allscripts Healthcare Solutions, Inc.",MDRX,0.19%
+"Arista Networks, Inc.",ANET,0.19%
+"Myriad Genetics, Inc.",MYGN,0.19%
+"Zillow Group, Inc. Class A",ZG,0.19%
+Spotify Technology SA,SPOT,0.19%
+OneConnect Financial Technology Co Ltd Sponsored ADR,OCFT,0.18%
+Tencent Music Entertainment Group Sponsored ADR Class A,TME,0.18%
+TAL Education Group Sponsored ADR Class A,TAL,0.18%
+Mitsubishi Electric Corp.,6503,0.18%
+"3SBio, Inc.",1530,0.18%
+Zynga Inc. Class A,ZNGA,0.18%
+XP Inc. Class A,XP,0.18%
+Yaskawa Electric Corporation,6506,0.18%
+Horizon Therapeutics Public Limited Company,HZNP,0.18%
+Globus Medical Inc Class A,GMED,0.18%
+StoneCo Ltd. Class A,STNE,0.18%
+adidas AG,ADS,0.18%
+"Ameriprise Financial, Inc.",AMP,0.18%
+eBay Inc.,EBAY,0.18%
+"Palo Alto Networks, Inc.",PANW,0.18%
+"New Oriental Education & Technology Group, Inc. Sponsored ADR",EDU,0.17%
+"Bilibili, Inc. Sponsored ADR Class Z",BILI,0.17%
+NICE Ltd Sponsored ADR,NICE,0.17%
+Resmed Inc CHESS Depositary Interests on a ratio of 10 CDIs per ord.sh,RMD,0.17%
+"VMware, Inc. Class A",VMW,0.17%
+Hewlett Packard Enterprise Co.,HPE,0.17%
+10x Genomics Inc Class A,TXG,0.17%
+"Morningstar, Inc.",MORN,0.17%
+Corning Inc,GLW,0.17%
+"bluebird bio, Inc.",BLUE,0.17%
+Amphenol Corporation Class A,APH,0.17%
+Las Vegas Sands Corp.,LVS,0.17%
+"Zscaler, Inc.",ZS,0.17%
+Farfetch Limited Class A,FTCH,0.17%
+Deckers Outdoor Corporation,DECK,0.17%
+"Nasdaq, Inc.",NDAQ,0.17%
+"Overstock.com, Inc.",OSTK,0.16%
+PagSeguro Digital Ltd. Class A,PAGS,0.16%
+NXP Semiconductors NV,NXPI,0.16%
+"Sarepta Therapeutics, Inc.",SRPT,0.16%
+"Hill-Rom Holdings, Inc.",HRC,0.16%
+Nektar Therapeutics,NKTR,0.16%
+"Huaneng Power International, Inc. Class H",902,0.16%
+Just Eat Takeaway.com N.V.,TKWY,0.16%
+"Etsy, Inc.",ETSY,0.16%
+"FLIR Systems, Inc.",FLIR,0.16%
+"Tandem Diabetes Care, Inc.",TNDM,0.16%
+Telefonaktiebolaget LM Ericsson Sponsored ADR Class B,ERIC,0.15%
+Weibo Corp Sponsored ADR Class A,WB,0.15%
+"ONO Pharmaceutical Co., Ltd.",4528,0.15%
+Ares Management Corporation,ARES,0.15%
+Fair Isaac Corporation,FICO,0.15%
+"Live Nation Entertainment, Inc.",LYV,0.15%
+Equifax Inc.,EFX,0.15%
+Edenred SA,EDEN,0.15%
+Apollo Global Management Inc. Class A,APO,0.15%
+Bio-Techne Corporation,TECH,0.15%
+Mail.ru Group Ltd. Sponsored GDR,MAIL,0.14%
+Li Ning Company Limited,2331,0.14%
+Atlassian Corp. Plc Class A,TEAM,0.14%
+Cloudflare Inc Class A,NET,0.14%
+Takara Bio Inc.,4974,0.14%
+"Expedia Group, Inc.",EXPE,0.14%
+Textron Inc.,TXT,0.14%
+Check Point Software Technologies Ltd.,CHKP,0.14%
+MorphoSys AG,MOR,0.14%
+"Coupa Software, Inc.",COUP,0.14%
+MGM Resorts International,MGM,0.14%
+"Broadridge Financial Solutions, Inc.",BR,0.14%
+Rightmove plc,RMV,0.14%
+Zalando SE,ZAL,0.14%
+"Beyond Meat, Inc.",BYND,0.14%
+"Tradeweb Markets, Inc. Class A",TW,0.14%
+"Q2 Holdings, Inc.",QTWO,0.14%
+"Varian Medical Systems, Inc.",VAR,0.14%
+"ACI Worldwide, Inc.",ACIW,0.14%
+Teva Pharmaceutical Industries Limited Sponsored ADR,TEVA,0.13%
+"Slack Technologies, Inc. Class A",WORK,0.13%
+Atos SE,ATO,0.13%
+Nemetschek SE,NEM,0.13%
+Invesco Ltd.,IVZ,0.13%
+Peugeot SA,UG,0.13%
+BorgWarner Inc.,BWA,0.13%
+SunPower Corporation,SPWR,0.13%
+Thales SA,HO,0.13%
+Galapagos NV,GLPG,0.13%
+Evercore Inc Class A,EVR,0.13%
+Lyft Inc Class A,LYFT,0.13%
+Lear Corporation,LEA,0.13%
+"BioTelemetry, Inc.",BEAT,0.13%
+"Church & Dwight Co., Inc.",CHD,0.13%
+"Nissan Motor Co., Ltd.",7201,0.13%
+Scout24 AG,G24,0.13%
+Semtech Corporation,SMTC,0.13%
+"Ambarella, Inc.",AMBA,0.13%
+"GSX Techedu, Inc. Sponsored ADR Class A",GSX,0.12%
+Jumia Technologies AG Sponsored ADR,JMIA,0.12%
+DouYu International Holdings Ltd. Sponsored ADR,DOYU,0.12%
+"Euronet Worldwide, Inc.",EEFT,0.12%
+"Chewy, Inc. Class A",CHWY,0.12%
+"Skechers U.S.A., Inc. Class A",SKX,0.12%
+Hargreaves Lansdown plc,HL,0.12%
+"Medallia, Inc.",MDLA,0.12%
+Carlyle Group Inc,CG,0.12%
+"Dick\'s Sporting Goods, Inc.",DKS,0.12%
+"AeroVironment, Inc.",AVAV,0.12%
+"Leidos Holdings, Inc.",LDOS,0.12%
+Silicon Laboratories Inc.,SLAB,0.12%
+Booz Allen Hamilton Holding Corporation Class A,BAH,0.12%
+"Proofpoint, Inc.",PFPT,0.12%
+"Akamai Technologies, Inc.",AKAM,0.12%
+Inphi Corporation,IPHI,0.12%
+"Ultragenyx Pharmaceutical, Inc.",RARE,0.12%
+Innergex Renewable Energy Inc.,INE,0.12%
+"Yamaha Motor Co., Ltd.",7272,0.12%
+"Rakuten, Inc.",4755,0.12%
+HelloFresh SE,HFG,0.12%
+ASGN Inc,ASGN,0.12%
+Theravance Biopharma Inc,TBPH,0.12%
+CACI International Inc Class A,CACI,0.12%
+"Juniper Networks, Inc.",JNPR,0.12%
+CoreSite Realty Corporation,COR,0.11%
+"Veoneer, Inc.",VNE,0.11%
+"Kratos Defense & Security Solutions, Inc.",KTOS,0.11%
+PTC Inc.,PTC,0.11%
+"First Solar, Inc.",FSLR,0.11%
+BlackBerry Limited,BB,0.11%
+Rogers Corporation,ROG,0.11%
+"FireEye, Inc.",FEYE,0.11%
+Repay Holdings Corp. Class A,RPAY,0.11%
+"Razer, Inc.",1337,0.11%
+"Jack Henry & Associates, Inc.",JKHY,0.11%
+Ubisoft Entertainment SA,UBI,0.11%
+Seiko Epson Corp.,6724,0.11%
+"Planet Fitness, Inc. Class A",PLNT,0.11%
+CompuGroup Medical SE & Co. KGaA,COP,0.11%
+CTS Eventim AG & Co. KGaA,EVD,0.11%
+"Interactive Brokers Group, Inc. Class A",IBKR,0.11%
+"Chegg, Inc.",CHGG,0.11%
+Plus500 Ltd.,PLUS,0.11%
+FactSet Research Systems Inc.,FDS,0.11%
+"Change Healthcare, Inc.",CHNG,0.11%
+Amundi SA,AMUN,0.11%
+"Guidewire Software, Inc.",GWRE,0.11%
+CyberArk Software Ltd.,CYBR,0.11%
+iRobot Corporation,IRBT,0.11%
+"Proto Labs, Inc.",PRLB,0.11%
+Tata Motors Limited Sponsored ADR,TTM,0.1%
+Momo Inc Sponsored ADR Class A,MOMO,0.1%
+Burning Rock Biotech Ltd. Sponsored ADR Class A,BNR,0.1%
+Appen Ltd.,APX,0.1%
+LPL Financial Holdings Inc.,LPLA,0.1%
+"Tenable Holdings, Inc.",TENB,0.1%
+"NextGen Healthcare, Inc.",NXGN,0.1%
+Nexteer Automotive Group Limited,1316,0.1%
+JD Sports Fashion Plc,JD,0.1%
+Green Dot Corporation Class A,GDOT,0.1%
+Nordex SE,NDX1,0.1%
+"Shift4 Payments, Inc. Class A",FOUR,0.1%
+"2U, Inc.",TWOU,0.1%
+"Envestnet, Inc.",ENV,0.1%
+"Nuance Communications, Inc.",NUAN,0.1%
+Invitae Corp.,NVTA,0.1%
+Jabil Inc.,JBL,0.1%
+Mesoblast Limited,MSB,0.1%
+Mylan N.V.,MYL,0.1%
+"Alteryx, Inc. Class A",AYX,0.1%
+Canadian Solar Inc.,CSIQ,0.1%
+"Shanghai Junshi Biosciences Co., Ltd. Class H",1877,0.1%
+"World Wrestling Entertainment, Inc. Class A",WWE,0.1%
+Nabtesco Corporation,6268,0.1%
+AdaptHealth Corp. Class A,AHCO,0.1%
+Sunrun Inc.,RUN,0.1%
+Parsons Corporation,PSN,0.1%
+MinebeaMitsumi Inc.,6479,0.1%
+Materialise NV Sponsored ADR,MTLS,0.09%
+I-MAB Sponsored ADR,IMAB,0.09%
+Opera Ltd. Sponsored ADR,OPRA,0.09%
+"HUYA, Inc. Sponsored ADR Class A",HUYA,0.09%
+"Brooks Automation, Inc.",BRKS,0.09%
+"ZIOPHARM Oncology, Inc.",ZIOP,0.09%
+Lazard Ltd Class A,LAZ,0.09%
+Koolearn Technology Holding Limited,1797,0.09%
+"InterDigital, Inc.",IDCC,0.09%
+"PJT Partners, Inc. Class A",PJT,0.09%
+Verint Systems Inc.,VRNT,0.09%
+"BASE, Inc.",4477,0.09%
+Software AG,SOW,0.09%
+Sharp Corporation,6753,0.09%
+"EVERTEC, Inc.",EVTC,0.09%
+Eurazeo SA,RF,0.09%
+"Boot Barn Holdings, Inc.",BOOT,0.09%
+"Relay Therapeutics, Inc.",RLAY,0.09%
+"CEVA, Inc.",CEVA,0.09%
+Virgin Galactic Holdings Inc,SPCE,0.09%
+Infocom Corporation,4348,0.09%
+Columbia Sportswear Company,COLM,0.09%
+HENNGE K.K.,4475,0.09%
+Ciena Corporation,CIEN,0.09%
+WEX Inc.,WEX,0.09%
+Workhorse Group Inc.,WKHS,0.09%
+Wipro Limited Sponsored ADR,WIT,0.08%
+Kawasaki Heavy Industries Ltd.,7012,0.08%
+"Maxar Technologies, Inc.",MAXR,0.08%
+"Perspecta, Inc.",PRSP,0.08%
+CI Financial Corp.,CIX,0.08%
+"ALX Oncology Holdings, Inc.",ALXO,0.08%
+Mimecast Limited,MIME,0.08%
+Atlantica Sustainable Infrastructure plc,AY,0.08%
+"FTI Consulting, Inc.",FCN,0.08%
+Glu Mobile Inc.,GLUU,0.08%
+Belden Inc.,BDC,0.08%
+3D Systems Corporation,DDD,0.08%
+flatex AG,FTK,0.08%
+Ping Identity Holding Corp.,PING,0.08%
+"Digital Garage, Inc.",4819,0.08%
+"TripAdvisor, Inc.",TRIP,0.08%
+Nikola Corporation,NKLA,0.08%
+WNS (Holdings) Limited Sponsored ADR,WNS,0.07%
+Sohu.com Limited Sponsored ADR,SOHU,0.07%
+Zip Co Ltd.,Z1P,0.07%
+Kainos Group PLC,KNOS,0.07%
+"Everi Holdings, Inc.",EVRI,0.07%
+Barnes Group Inc.,B,0.07%
+Alfen NV,ALFEN,0.07%
+"Cloudera, Inc.",CLDR,0.07%
+TUI AG,TUI,0.07%
+"Ebang International Holdings, Inc. Class A",EBON,0.07%
+Madison Square Garden Sports Corp. Class A,MSGS,0.07%
+Dana Incorporated,DAN,0.07%
+Madison Square Garden Entertainment Corp Class A,MSGE,0.07%
+"Docebo, Inc.",DCBO,0.07%
+"NETGEAR, Inc.",NTGR,0.07%
+WELL Health Technologies Corp.,WELL,0.07%
+Stratasys Ltd.,SSYS,0.07%
+"BGC Partners, Inc. Class A",BGCP,0.07%
+"OSI Systems, Inc.",OSIS,0.07%
+Avaya Holdings Corp.,AVYA,0.07%
+Futu Holdings Ltd. Sponsored ADR Class A,FUTU,0.06%
+Baozun Inc Sponsored ADR Class A,BZUN,0.06%
+Qiwi Plc Sponsored ADR Class B,QIWI,0.06%
+"360 DigiTech, Inc. ADR Class A",QFIN,0.06%
+Sabre Corp.,SABR,0.06%
+"FARO Technologies, Inc.",FARO,0.06%
+"Fitbit, Inc. Class A",FIT,0.06%
+"Virtus Investment Partners, Inc.",VRTS,0.06%
+"ViaSat, Inc.",VSAT,0.06%
+"NuVasive, Inc.",NUVA,0.06%
+"Virtu Financial, Inc. Class A",VIRT,0.06%
+"Castle Biosciences, Inc.",CSTL,0.06%
+Eckert & Ziegler Strahlen- und Medizintechnik AG,EUZ,0.06%
+Sapiens International Corporation NV,SPNS,0.06%
+Northern Data AG,NB2,0.06%
+Virtusa Corporation,VRTU,0.06%
+K12 Inc.,LRN,0.06%
+"Himax Technologies, Inc. Sponsored ADR",HIMX,0.05%
+Lexinfintech Holdings Ltd. Sponsored ADR Class A,LX,0.05%
+Greencoat UK Wind Plc,UKW,0.05%
+Unisys Corporation,UIS,0.05%
+China Suntien Green Energy Corporation Limited Class H,956,0.05%
+Pitney Bowes Inc.,PBI,0.05%
+EML Payments Ltd.,EML,0.05%
+Platinum Asset Management Ltd,PTM,0.05%
+"Akouos, Inc.",AKUS,0.05%
+Daihen Corporation,6622,0.05%
+"SI-BONE, Inc.",SIBN,0.05%
+"B. Riley Financial, Inc.",RILY,0.05%
+"Personalis, Inc.",PSNL,0.05%
+TP ICAP plc,TCAP,0.05%
+"Eventbrite, Inc. Class A",EB,0.05%
+Turkcell Iletisim Hizmetleri A.S. Sponsored ADR,TKC,0.04%
+UP Fintech Holding Ltd. Sponsored ADR Class A,TIGR,0.04%
+Youdao Inc ADR Class A,DAO,0.04%
+TomTom NV,TOM2,0.04%
+"Shibaura Machine Co., Ltd.",6104,0.04%
+Value Partners Group Limited,806,0.04%
+S&T AG,SANT,0.04%
+"Monex Group, Inc.",8698,0.04%
+"HEROZ, Inc.",4382,0.04%
+"Yokowo Co., Ltd.",6800,0.04%
+GreenTree Hospitality Group Ltd. Sponsored ADR Class A,GHG,0.03%
+Azure Power Global Ltd.,AZRE,0.03%
+Learning Technologies Group Plc,LTG,0.03%
+Yangtze Optical Fibre and Cable Joint Stock Ltd Co Class H,6869,0.03%
+"Beijing Jingneng Clean Energy Co., Ltd. Class H",579,0.03%
+Genetron Holdings Ltd Sponsored ADR,GTH,0.02%
+Linx SA ADR,LINX,0.02%
+Laboratory Corporation of America Holdings,LH,0.01%
+"Reata Pharmaceuticals, Inc. Class A",RETA,0.01%
+Teleflex Incorporated,TFX,0.01%
+"Seagen, Inc.",SGEN,0.01%
+"BeiGene, Ltd. Sponsored ADR",BGNE,0.0%
+Cellectis SA Sponsored ADR,CLLS,0.0%
+Hutchison China Meditech Ltd Sponsored ADR,HCM,0.0%
+"Krystal Biotech, Inc.",KRYS,0.0%
+Fresenius SE & Co. KGaA,FRE,0.0%
+NovoCure Ltd.,NVCR,0.0%
+EMIS Group plc,EMIS,0.0%
+Blueprint Medicines Corp.,BPMC,0.0%
+Fresenius Medical Care AG & Co. KGaA,FME,0.0%
+"Align Technology, Inc.",ALGN,0.0%
+Atara Biotherapeutics Inc,ATRA,0.0%
+DaVita Inc.,DVA,0.0%
+"Inspire Medical Systems, Inc.",INSP,0.0%
+"Karyopharm Therapeutics, Inc.",KPTI,0.0%
+Integer Holdings Corporation,ITGR,0.0%
+"NeoGenomics, Inc.",NEO,0.0%
+ResMed Inc.,RMD,0.0%
+"Health Catalyst, Inc.",HCAT,0.0%
+"TG Therapeutics, Inc.",TGTX,0.0%
+Adverum Biotechnologies Inc,ADVM,0.0%
+Merck KGaA,MRK,0.0%
+Quest Diagnostics Incorporated,DGX,0.0%
+"Agios Pharmaceuticals, Inc.",AGIO,0.0%
+"Allogene Therapeutics, Inc.",ALLO,0.0%
+"Merit Medical Systems, Inc.",MMSI,0.0%
+"Shockwave Medical, Inc.",SWAV,0.0%
+"G1 Therapeutics, Inc.",GTHX,0.0%
+"Replimune Group, Inc.",REPL,0.0%
+HCA Healthcare Inc,HCA,0.0%
+"Stoke Therapeutics, Inc.",STOK,0.0%
+Takeda Pharmaceutical Co. Ltd.,4502,0.0%
+"OPKO Health, Inc.",OPK,0.0%
+"Gossamer Bio, Inc.",GOSS,0.0%
+Cara Therapeutics Inc,CARA,0.0%
+Innate Pharma SA Class A,IPH,0.0%
+Acceleron Pharma Inc,XLRN,0.0%
+"Rhythm Pharmaceuticals, Inc.",RYTM,0.0%
+Precigen Inc,PGEN,0.0%
+"Cardiovascular Systems, Inc.",CSII,0.0%
+"Halozyme Therapeutics, Inc.",HALO,0.0%
+"FibroGen, Inc.",FGEN,0.0%
+"Henry Schein, Inc.",HSIC,0.0%
+LivaNova Plc,LIVN,0.0%
+"Exelixis, Inc.",EXEL,0.0%
+ABCAM PLC,ABC,0.0%
+"Molecular Templates, Inc.",MTEM,0.0%
+Genscript Biotech Corporation,1548,0.0%
+"Akebia Therapeutics, Inc.",AKBA,0.0%
+Baxter International Inc.,BAX,0.0%
+MeiraGTx Holdings Plc,MGTX,0.0%
+CONMED Corporation,CNMD,0.0%
+"Natera, Inc.",NTRA,0.0%
+Mirati Therapeutics Inc.,MRTX,0.0%
+Surmodics Inc,SRDX,0.0%
+"Charles River Laboratories International, Inc.",CRL,0.0%
+"WuXi AppTec Co., Ltd. Class H",2359,0.0%
+"Nichi-Iko Pharmaceutical Co., Ltd.",4541,0.0%
+"REGENXBIO, Inc.",RGNX,0.0%
+"Vocera Communications, Inc.",VCRA,0.0%
+"Athenex, Inc.",ATNX,0.0%
+Iovance Biotherapeutics Inc,IOVA,0.0%
+Quanterix Corporation,QTRX,0.0%

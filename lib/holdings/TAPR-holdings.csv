@@ -1,0 +1,19 @@
+TAPR: Barclays Inverse U.S. Treasury Aggregate ETN
+Inception Date: 2014-07-14
+Fund Holdings as of: 2020-09-25
+Total Assets Under Management (in thousands):	3557
+Shares Outstanding: 40000
+Expense Ratio: 0.43%
+Tracks This Index: Barclays Inverse U.S. Treasury Futures Composite Index
+ETFdb.com Category: Inverse Bonds
+Issuer: Barclays Capital
+Structure: ETN
+ETF Home Page: https://etfdb.com/etf/TAPR
+
+
+Holding,Symbol,Weighting
+Ultra Long-Term US Treasury Bond Futures,WN,23.6%
+30-Year US Treasury Note Futures,US,21.5%
+10-Year US Treasury Note Futures,TY,19.4%
+5-Year US Treasury Note Futures,FV,18.5%
+2-Year US Treasury Note Futures,TU,17.0%

@@ -1,0 +1,18 @@
+IBTK: iShares iBonds Dec 2030 Term Treasury ETF
+Inception Date: 2020-07-14
+Fund Holdings as of: 2020-09-29
+Total Assets Under Management (in thousands):	2449
+Shares Outstanding: 100000
+Expense Ratio: %
+Tracks This Index: ICE 2030 Maturity US Treasury Index
+ETFdb.com Category: Government Bonds
+Issuer: iShares
+Structure: 
+ETF Home Page: https://etfdb.com/etf/IBTK
+
+
+Holding,Symbol,Weighting
+UNITED STATES TREASURY,UST    0.625 05/15/30,46.78%
+UNITED STATES TREASURY,UST    1.500 02/15/30,44.0056%
+UNITED STATES TREASURY,UST    0.625 08/15/30,8.8582%
+Cash Component,CASH,0.3563%

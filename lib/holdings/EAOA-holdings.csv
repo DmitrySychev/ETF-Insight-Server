@@ -1,0 +1,20 @@
+EAOA: iShares ESG Aware Aggressive Allocation ETF
+Inception Date: 2020-06-12
+Fund Holdings as of: 2020-12-31
+Total Assets Under Management (in thousands):	4568
+Shares Outstanding: 150000
+Expense Ratio: 0.18%
+Tracks This Index: BlackRock ESG Aware Aggressive Allocation Index
+ETFdb.com Category: Diversified Portfolio
+Issuer: iShares
+Structure: ETF
+ETF Home Page: https://etfdb.com/etf/EAOA
+
+
+Holding,Symbol,Weighting
+iShares ESG Aware MSCI USA ETF,ESGU,44.9%
+iShares ESG Aware MSCI EAFE ETF,ESGD,20.88%
+iShares ESG Aware US Aggregate Bond ETF,EAGG,18.44%
+iShares ESG Aware MSCI EM ETF,ESGE,9.99%
+iShares ESG Aware MSCI USA Small-Cap ETF,ESML,5.6%
+U.S. Dollar,Other,0.19%
